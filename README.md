@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=xxqwq&theme=dark&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&border_radius=4.6&locale=zh)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq&show_icons=true&theme=radical)
