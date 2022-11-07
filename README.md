@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/dynamic/json?color=21DED8&label=Github&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxxqwq">
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xxqwq)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xxqwq)](https://github.com/anuraghazra/github-readme-stats)
