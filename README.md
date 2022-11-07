@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xxqwq&theme=dark&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&border_radius=4.6&locale=zh)](https://git.io/streak-stats)
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/xxqwq/xxqwq/master/assets/github-contribution-grid-snake.svg" ></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq&show_icons=true&theme=radical)
 
