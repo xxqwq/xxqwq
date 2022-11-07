@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=xxqwq&theme=dark&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&border_radius=4.6&locale=zh)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxqwq)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
