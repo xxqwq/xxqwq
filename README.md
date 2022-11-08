@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=2000&color=4C3FF7&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%9C%A8%E6%A0%A1%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%80%85%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B0%B1%E8%AF%BB%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%E4%B8%AD~" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=2000&color=4C3FF7&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E5%9C%A8%E6%A0%A1%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%80%85;%E7%9B%AE%E5%89%8D%E5%B0%B1%E8%AF%BB%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%B8%9A%E5%A4%A7%E5%AD%A6" alt="Typing SVG" /></a>
 <p>
 <img src="https://img.shields.io/badge/dynamic/json?color=21DED8&label=Github&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dxxqwq">
 </p>
