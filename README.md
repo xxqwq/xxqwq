@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxqwq&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxqwq&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxqwq&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=xxqwq&theme=minimal" />
+</div>
 
